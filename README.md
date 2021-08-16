@@ -1,5 +1,5 @@
 # Shell
-Designing a basic shell in C
+Designing a basic UNIX shell in C.
 
 Sources:
 https://brennan.io/2015/01/16/write-a-shell-in-c/
